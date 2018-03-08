@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65092a31-0c5b-4131-ad91-03a94e090381" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/both/PeopleCollection.js" afterPath="$PROJECT_DIR$/app/both/PeopleCollection.js" />
       <change beforePath="$PROJECT_DIR$/app/server/PeopleInitialization.js" afterPath="$PROJECT_DIR$/app/server/PeopleInitialization.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PeopleCollection.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PeopleCollection.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/both/PeopleCollection.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -27,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PeopleInitialization.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PeopleInitialization.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/server/PeopleInitialization.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -52,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/server/PeopleInitialization.js" />
         <option value="$PROJECT_DIR$/app/both/PeopleCollection.js" />
+        <option value="$PROJECT_DIR$/app/server/PeopleInitialization.js" />
       </list>
     </option>
   </component>
@@ -269,14 +267,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/server/PeopleInitialization.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/both/PeopleCollection.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -284,6 +274,14 @@
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/server/PeopleInitialization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
